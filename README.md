@@ -4,7 +4,7 @@ This repository introduces Defect Prevention Efficiency (DPE), a shift-left metr
 # Defect Prevention Efficiency (DPE) - A Shift-Left Testing Metric
 
 ## Introduction
-Defect Prevention Efficiency (**DPE**) is a metric designed to measure the effectiveness of shift-left practices in preventing defects **before** they reach later development stages. This metric was introduced by [Your Name] in [Year].
+Defect Prevention Efficiency (**DPE**) is a metric designed to measure the effectiveness of shift-left practices in preventing defects **before** they reach later development stages. This metric was introduced by Ehtesham Ahmed in March, 2025.
 
 ## Definition
 DPE is calculated as:
