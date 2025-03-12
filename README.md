@@ -26,6 +26,11 @@ Where:
 DPE = (80 / 100) × 100 = 80%
 ```
 
+## Interpretation Guidelines
+- **High DPE (>70%):** Effective shift-left practices are in place.
+- **Moderate DPE (50-70%):** Shift-left practices are working but can be improved.
+- **Low DPE (<50%):** Significant room for improvement in early defect detection practices.
+
 ## Why DPE Matters?
 - Encourages **shift-left testing** by rewarding early defect detection.
 - Helps teams **quantify defect prevention effectiveness**.
