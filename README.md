@@ -32,7 +32,7 @@ DPE = (80 / 100) × 100 = 80%
 - Supports **continuous improvement in Agile and DevOps**.
 
 ## Implementing DPE
-- **Track early defects** using a dedicated issue type (`eBug`) in Jira.
+- **Track early defects** using a dedicated issue type in your issue tracker.
 - **Visualize DPE trends** in sprint retrospectives.
 - **Compare DPE with Defect Removal Efficiency (DRE)** for deeper insights.
 
